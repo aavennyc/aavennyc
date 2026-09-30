@@ -1,16 +1,16 @@
-## Hi there 👋
+# aavenyc
 
-<!--
-**aavennyc/aavennyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year Computer Science student at Fordham University (Lincoln Center), with an interest in Cybersecurity.
+I'm learning C++ and Python by making small scripts and documenting them.
 
-Here are some ideas to get you started:
+What I'm working on
+C++
+Python
+CompTIA Network+
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Repos:
+[learning-log] my C++ and Python, which are also organized by topic and function, including notes/write-ups on what I learned and any issues.
+Projects: coming soon (I'll link them here when I finish them)
+
+Contact Info:
+Email: aydenaven@gmail.com
